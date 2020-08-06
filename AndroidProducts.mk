@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/pixys_violet.mk
+    $(LOCAL_DIR)/aosp_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    pixys_violet-userdebug \
-    pixys_violet-eng \
-    pixys_violet-user
+    aosp_violet-userdebug \
+    aosp_violet-eng \
+    aosp_violet-user
