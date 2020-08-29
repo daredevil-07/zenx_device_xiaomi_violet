@@ -56,5 +56,7 @@
          manager will disable alpha trasformation in animations where not
          strictly needed. -->
     <bool name="config_sf_limitedAlpha">true</bool>
+    <string name="config_device_parts_package_name" translatable="false">com.xiaomi.parts</string>
+    <string name="config_device_parts_package_activity" translatable="false">.DeviceSettingsActivity</string>
 
 </resources>
