@@ -57,6 +57,6 @@
          strictly needed. -->
     <bool name="config_sf_limitedAlpha">true</bool>
     <string name="config_device_parts_package_name" translatable="false">com.xiaomi.parts</string>
-    <string name="config_device_parts_package_activity" translatable="false">.DeviceSettingsActivity</string>
+    <string name="config_device_parts_package_activity" translatable="false">android.intent.action.MAIN</string>
 
 </resources>
